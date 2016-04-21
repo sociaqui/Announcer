@@ -1,0 +1,4 @@
+sociaqui:
+    resource: "@SociaquiBundle/Controller/"
+    type:     annotation
+    prefix:   /
